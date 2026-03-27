@@ -19,8 +19,5 @@ output/
 .DS_Store
 Thumbs.db
 
-# uv
-uv.lock
-
 # Temporary files
 prd_text.txt
